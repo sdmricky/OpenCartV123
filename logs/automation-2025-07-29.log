@@ -1,0 +1,45 @@
+2025-07-28 21:19:51:939  [main] INFO  testCases.TC_002_LoginTest - Providing user credentials.....
+2025-07-28 21:19:53:113  [main] INFO  testCases.TC_002_LoginTest - ********Finished TC_002_LoginTest********
+2025-07-29 17:06:36:143  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\soumyadeep.majumder\eclipse-workspace\OpenCartV123\master.xml"
+2025-07-29 17:06:36:742  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\soumyadeep.majumder\eclipse-workspace\OpenCartV123\master.xml
+
+2025-07-29 17:06:44:492  [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting TC_001_AccounRegistrationTest *******
+2025-07-29 17:06:45:268  [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on 'My Account' link
+2025-07-29 17:06:45:853  [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on 'Register' link
+2025-07-29 17:06:45:887  [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer details.....
+2025-07-29 17:06:48:036  [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message......
+2025-07-29 17:06:48:131  [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Finished TC_001_AccounRegistrationTest *******
+2025-07-29 17:06:52:869  [main] INFO  testCases.TC_002_LoginTest - ************Starting TC_002_LoginTest***********
+2025-07-29 17:06:53:750  [main] INFO  testCases.TC_002_LoginTest - Clicked on 'My Account' link
+2025-07-29 17:06:54:195  [main] INFO  testCases.TC_002_LoginTest - Clicked on 'Login' link
+2025-07-29 17:06:54:222  [main] INFO  testCases.TC_002_LoginTest - Providing user credentials.....
+2025-07-29 17:06:55:601  [main] INFO  testCases.TC_002_LoginTest - ********Finished TC_002_LoginTest********
+2025-07-29 20:07:14:040  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\soumyadeep.majumder\eclipse-workspace\OpenCartV123\master.xml"
+2025-07-29 20:07:28:968  [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting TC_001_AccounRegistrationTest *******
+2025-07-29 20:07:30:041  [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on 'My Account' link
+2025-07-29 20:07:30:833  [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on 'Register' link
+2025-07-29 20:07:30:864  [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer details.....
+2025-07-29 20:07:33:481  [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message......
+2025-07-29 20:07:33:594  [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Finished TC_001_AccounRegistrationTest *******
+2025-07-29 20:07:38:945  [main] INFO  testCases.TC_002_LoginTest - ************Starting TC_002_LoginTest***********
+2025-07-29 20:07:39:795  [main] INFO  testCases.TC_002_LoginTest - Clicked on 'My Account' link
+2025-07-29 20:07:40:215  [main] INFO  testCases.TC_002_LoginTest - Clicked on 'Login' link
+2025-07-29 20:07:40:280  [main] INFO  testCases.TC_002_LoginTest - Providing user credentials.....
+2025-07-29 20:07:41:837  [main] INFO  testCases.TC_002_LoginTest - ********Finished TC_002_LoginTest********
+2025-07-29 20:31:14:231  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\soumyadeep.majumder\eclipse-workspace\OpenCartV123\master.xml"
+2025-07-29 20:31:24:313  [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting TC_001_AccounRegistrationTest *******
+2025-07-29 20:31:25:208  [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on 'My Account' link
+2025-07-29 20:31:25:924  [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on 'Register' link
+2025-07-29 20:31:25:930  [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer details.....
+2025-07-29 20:31:28:566  [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message......
+2025-07-29 20:31:28:665  [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Finished TC_001_AccounRegistrationTest *******
+2025-07-29 20:31:33:792  [main] INFO  testCases.TC_002_LoginTest - ************Starting TC_002_LoginTest***********
+2025-07-29 20:31:34:733  [main] INFO  testCases.TC_002_LoginTest - Clicked on 'My Account' link
+2025-07-29 20:31:35:200  [main] INFO  testCases.TC_002_LoginTest - Clicked on 'Login' link
+2025-07-29 20:31:35:203  [main] INFO  testCases.TC_002_LoginTest - Providing user credentials.....
+2025-07-29 20:31:36:679  [main] INFO  testCases.TC_002_LoginTest - ********Finished TC_002_LoginTest********
+2025-07-29 20:34:54:617  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\soumyadeep.majumder\eclipse-workspace\OpenCartV123\master.xml"
+2025-07-29 20:34:59:883  [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting TC_001_AccounRegistrationTest *******
+2025-07-29 20:35:00:971  [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on 'My Account' link
+2025-07-29 20:35:04:110  [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on 'Register' link
